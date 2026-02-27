@@ -36,7 +36,7 @@ tic-tac-toe/
 3. Open `index.html` in your browser.
 
 ## Preview
-[Game Screenshot](images/tic-tac-toe preview.png)
+[Game Screenshot](images/tic-tac-toepreview.png)
 
 
 Created by Vivek Jadhav
